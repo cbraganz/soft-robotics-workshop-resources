@@ -1,4 +1,4 @@
-## 🪱🤖 Workshop: [Soft Robotics Workshop]
+## 🪱🤖 Soft Robotics Rice Paper Workshop
 
 Welcome to the GitHub repository for the Soft Robotics Workshop using rice paper!
 
