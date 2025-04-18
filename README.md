@@ -38,20 +38,20 @@ To follow along with the workshop:
 The materials required for the workshop are below:
 
 Rice Paper Actuators:
--Rice Paper sheets (around 5 per participant)
--Seaweed or rice noodles for constraints
--String (2 pieces per participant)
--A rod per participant (metal straw or pen)
--Vegetable oil 
--A container of water that the rice paper can be submerged in
--Syringe per participant
--Syringe and tubing connector per participant
--15cm tubing per participant
+- Rice Paper sheets (around 5 per participant)
+- Seaweed or rice noodles for constraints
+- String (2 pieces per participant)
+- A rod per participant (metal straw or pen)
+- Vegetable oil 
+- A container of water that the rice paper can be submerged in
+- Syringe per participant
+- Syringe and tubing connector per participant
+- 15cm tubing per participant
 
 General workshop equipment:
--Pens
--Paper for participants to draw on
--Objects for participants to pick up with silicone grippers and a target to place them on/in (like a bag)
+- Pens
+- Paper for participants to draw on
+- Objects for participants to pick up with silicone grippers and a target to place them on/in (like a bag)
 
 ---
 
